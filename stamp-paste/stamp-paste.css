@@ -1,0 +1,23 @@
+.approval-stamp-field {
+    width: 50px !important;
+    min-width: 67px !important;
+}
+.approval-stamp-field div {
+    width: 50px;
+}
+.approval-stamp-field .control-label-gaia {
+    margin: 0;
+    text-align: right;
+}
+.approval-stamp-field .control-value-gaia {
+    min-height: 50px;
+}
+
+.swal2-footer {
+    background-color: #f8d7da;
+}
+
+.swal2-footer a {
+    color: #721c24;
+    padding-bottom: 15px;
+}
